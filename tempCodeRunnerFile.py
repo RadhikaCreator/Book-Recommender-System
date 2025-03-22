@@ -1,0 +1,1 @@
+popular_df = pickle.load(open('popular.pkl','rb'))
